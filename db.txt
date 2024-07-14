@@ -1,0 +1,20 @@
+tlccrm
+
+users
+pastors
+branches
+departments
+sub_departments
+crusades
+ministries
+posts
+hymn --c
+services --c
+markmywords --c
+aboutus --c
+doctrines --c
+devotions
+products
+orders
+carts--ls
+wish--ls
